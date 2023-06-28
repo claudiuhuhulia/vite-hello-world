@@ -17,6 +17,7 @@ export default {
 
 <template>
   <AppTitle />
+  <AppHero />
 </template>
 
 <style></style>
